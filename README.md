@@ -5,6 +5,8 @@
 The purpose of this analysis was to help Des Moines decide if a ridesharing service such as NYC's Citibike is a solid business proposal.  
 We used Citi Bike public data to draw conclusions that apply both to NYC and to Des Moines. By asking the right questions and using critical thinking we were able to visualize our conclusions with the help of Tableau.
 
+[Link to Tableau Dashboard](https://public.tableau.com/views/NYCCitibikes_16605249380080/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 ---
 ##### RESULTS
 
